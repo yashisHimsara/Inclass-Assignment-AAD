@@ -8,5 +8,5 @@ import jakarta.servlet.http.HttpServletRequest;
 public class FoodController extends HttpServlet {
 
     @Override
-    protected void doPost(HttpServletRequest req, Hgi)
+    protected void doPost(HttpServletRequest req,  Hgi)
 }
